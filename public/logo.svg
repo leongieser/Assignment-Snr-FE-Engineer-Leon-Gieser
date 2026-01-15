@@ -1,0 +1,78 @@
+    <svg
+      aria-labelledby="title desc"
+      height="128"
+      role="img"
+      viewBox="0 0 128 128"
+      width="128"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <title>Easykiddo Logo</title>
+
+      <rect
+        className="petal"
+        fill="#3BC6B6"
+        height="30"
+        transform="rotate(0 64 64)"
+        width="12"
+        x="58"
+        y="16"
+        rx="2"
+        ry="2"
+      />
+      <rect
+        className="petal"
+        fill="#F6A31A"
+        height="30"
+        transform="rotate(60 64 64)"
+        width="12"
+        x="58"
+        y="16"
+        rx="2"
+        ry="2"
+      />
+      <rect
+        className="petal"
+        fill="#7A5AF8"
+        height="30"
+        transform="rotate(120 64 64)"
+        width="12"
+        x="58"
+        y="16"
+        rx="2" 
+        ry="2"
+      />
+      <rect
+        className="petal"
+        fill="#FF5D8F"
+        height="30"
+        transform="rotate(180 64 64)"
+        width="12"
+        x="58"
+        y="16"
+        rx="2"
+        ry="2"
+      />
+      <rect
+        className="petal"
+        fill="#00A2FF"
+        height="30"
+        transform="rotate(240 64 64)"
+        width="12"
+        x="58"
+        y="16"
+        rx="2"
+        ry="2"
+      />
+      <rect
+        className="petal"
+        fill="#FFD44D"
+        height="30"
+        transform="rotate(300 64 64)"
+        width="12"
+        x="58"
+        y="16"
+        rx="2" 
+        ry="2"
+      />
+      <circle cx="64" cy="64" fill="#CBD5E1" r="7" />
+    </svg>
